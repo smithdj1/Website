@@ -10,6 +10,7 @@ h1 {
 
 p {
     border: 3px solid wheat;
+    background: papayawhip;
 }
 
 button {
@@ -21,4 +22,9 @@ h4 {
     background: burlywood;
     border: 4px dashed white;
 
+}
+
+h2 {
+    background: burlywood;
+    border: dashed 5px paleturquoise;
 }
